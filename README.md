@@ -1,10 +1,5 @@
 # Udacity Self-Driving Cars Nanodegree: Term 1: Project 1: Detecting Lane Lines
 
-## To Do
-
-TUESDAY
-    README tart up
-
 ## Overview
 
 The project called for a lane detection pipeline to be created which could take in images of cars on highways and apply road lane lines to the image for the lane the car is in. Then later to apply that pipeline to videos of the car driving.
